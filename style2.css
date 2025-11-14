@@ -12,7 +12,7 @@ P{
     background-color: greenyellow;
 } */
  
-        .container {
+        /* .container {
             border: 2px solid #888;
             padding: 24px;
             max-width: 700px;
@@ -40,4 +40,10 @@ P{
             padding-top: 14px;
             color: #5b4c44;
             font-size: 1.08em;
-        }
+        } */
+         .container{
+            border : 2px sloid #888;
+            padding : 24px;
+            max-width : 800px ;
+            margin : 40
+         }
