@@ -9,9 +9,9 @@
     grid-template-rows: repeat(3,100px);
     grid-template-areas: "header header header header" "main main.sidebar" "footer footer footer ";
     gap: 10px;
-    justify-items: center;    
+    /* justify-items: center;    
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-around; */
 }
 .item{
     height: 100px;
