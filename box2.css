@@ -1,0 +1,18 @@
+body {
+    border: 2px solid black;   
+    padding: 20px;             
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    background-color: yellow;   
+    padding: 40px;             
+    border: 10px solid blue;   
+    margin: 50px;              
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
